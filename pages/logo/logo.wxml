@@ -1,0 +1,4 @@
+
+<view class="title" bindtap="changeText">{{title}}</view>
+<button type="primary" bindtap="onTap">跳转横屏</button>
+<button type="primary" bindtap="playAudio">音频播放</button>

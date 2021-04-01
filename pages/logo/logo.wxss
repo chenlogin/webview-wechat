@@ -1,0 +1,4 @@
+/* pages/logo/logo.wxss */
+.title{
+	text-align: center;
+}

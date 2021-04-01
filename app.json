@@ -1,0 +1,26 @@
+{
+	"pages": [
+		"pages/logo/logo",
+		"pages/index/index",
+		"pages/landscape/landscape"
+	],
+	"window": {
+		"backgroundTextStyle": "light",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"navigationBarTitleText": "web-view",
+		"navigationBarTextStyle": "black"
+	},
+	"sitemapLocation": "sitemap.json",
+	"tabBar": {
+		"list": [
+			{
+				"pagePath": "pages/logo/logo",
+				"text": "首页"
+			},
+			{
+				"pagePath": "pages/index/index",
+				"text": "webview"
+			}
+		]
+	}
+}
